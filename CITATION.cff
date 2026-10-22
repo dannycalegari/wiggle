@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "wiggle: a program for the space of wiggles"
+authors:
+  - family-names: Calegari
+    given-names: Danny
+    orcid: "https://orcid.org/0009-0007-9304-2822"
+    affiliation: "University of Chicago"
+repository-code: "https://github.com/dannycalegari/wiggle"
+license: GPL-3.0
+abstract: "A program to explore and to certify properties of the space of wiggles: the parameters z for which the attractor of the iterated function system {-zx+z, (z-1)x+1} is an embedded curve. It draws these sets and produces the machine certificates behind the computer-assisted proof, in the paper Wiggle Island (arXiv:2205.11442), that the space of wiggles is disconnected."
